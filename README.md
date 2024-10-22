@@ -19,3 +19,11 @@ pip install aimlexercise
 ## License
 
 `aimlexercise` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+
+Topics for First Presentaton:
+- General ML and Models
+- Data Preprocessing
+- Data Cleaning
+- Statistics
+- Linear Alzebra
+- NLP, Text Processing, Name Entity Recognition
